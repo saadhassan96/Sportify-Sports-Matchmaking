@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "sdkVersion": "26.0.0",
+    "splash": {
+	  "image": "./assets/images/screensLogo.png",
+	  "backgroundColor": "#FFE6D5",
+	  "opacity": 0.2,
+	  "resizeMode": "contain"
+	}
+  }
+}
